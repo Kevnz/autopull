@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Kevnz/autopull/issues"
   },
-  "homepage": "https://github.com/Kevnz/autopull"
+  "homepage": "https://github.com/Kevnz/autopull",
+  "devDependencies": {
+    "tap": "^0.7.1"
+  }
 }
