@@ -1,0 +1,23 @@
+{
+  "name": "autopull",
+  "version": "1.0.0",
+  "description": "Calls a function processes it and calls it again. Useful for pulling paged data from an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kevnz/autopull.git"
+  },
+  "keywords": [
+    "repeat",
+    "api"
+  ],
+  "author": "Kevin Isom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kevnz/autopull/issues"
+  },
+  "homepage": "https://github.com/Kevnz/autopull"
+}
