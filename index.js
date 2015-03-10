@@ -1,6 +1,5 @@
 'use strict';
 var path = require('path'),
-    querystring = require('querystring'),
     url = require('url'),
     util = require('util'),
     events = require('events'),
